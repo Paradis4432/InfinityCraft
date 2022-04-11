@@ -1,0 +1,10 @@
+name: FactoryToolsV0
+version: '${project.version}'
+main: me.paradis.factorytoolsv0.FactoryToolsV0
+api-version: 1.18
+authors: [ Paradis ]
+description: a tool or set of tools to help manage the factories
+commands:
+  tagtest:
+    description: test
+    usage: /command
