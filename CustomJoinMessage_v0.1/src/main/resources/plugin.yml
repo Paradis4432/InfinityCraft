@@ -1,0 +1,10 @@
+name: CustomJoinMessage
+version: '${project.version}'
+main: me.paradis.customjoinmessage.CustomJoinMessage
+api-version: 1.18
+authors: [ paradis ]
+description: custom join message
+commands:
+  cmessage:
+    description: manager for all sub commands of custom join messages
+    usage: /cmessage [set|delete] target message
