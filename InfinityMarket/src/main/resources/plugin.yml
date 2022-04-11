@@ -1,0 +1,5 @@
+name: Market
+version: '${project.version}'
+main: me.paradis.market.Market
+api-version: 1.18
+authors: [ Paradis ]
