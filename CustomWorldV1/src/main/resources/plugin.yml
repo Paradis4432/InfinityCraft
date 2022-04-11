@@ -1,0 +1,6 @@
+name: CustomWorld
+version: '${project.version}'
+main: me.paradis.customworld.CustomWorld
+api-version: 1.18
+authors: [ Paradis ]
+description: v1 of custom world, from skyblock to survival
