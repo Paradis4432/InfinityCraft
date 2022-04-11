@@ -1,0 +1,10 @@
+name: FactoryIdeaV1
+version: '${project.version}'
+main: me.paradis.factoryideav1.FactoryIdeaV1
+api-version: 1.18
+authors: [ Paradis ]
+description: first attempt of factory 
+commands:
+  fv1:
+    description: test
+    usage: /command
