@@ -1,0 +1,10 @@
+name: Factory
+version: '${project.version}'
+main: me.paradis.factory.Factory
+api-version: 1.18
+authors: [ Paradis ]
+description: v2 of factory idea
+commands:
+  fbelt:
+    description: manage belts
+    usage: /command
