@@ -1,0 +1,6 @@
+name: Backpacks
+version: '${project.version}'
+main: me.paradis.backpacks.Backpacks
+api-version: 1.18
+authors: [ Paradis ]
+description: first version of backpacks
