@@ -1,0 +1,6 @@
+name: InfinityChat
+version: '${project.version}'
+main: me.paradis.infinitychat.InfinityChat
+api-version: 1.18
+authors: [ Paradis ]
+description: manage chat settings 
