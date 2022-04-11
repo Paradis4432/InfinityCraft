@@ -1,0 +1,10 @@
+name: CustomWorldV0
+version: '${project.version}'
+main: me.paradis.customworldv0.CustomWorldV0
+api-version: 1.18
+authors: [ Paradis ]
+description: a custom world 
+commands:
+  createtestworld:
+    description: create custom world
+    usage: /<command>
