@@ -1,0 +1,10 @@
+name: InfinityEssentials
+version: '${project.version}'
+main: me.paradis.infinityessentials.InfinityEssentials
+api-version: 1.18
+authors: [ Paradis ]
+description: essential commands made by and for infinityCraft
+commands:
+  day:
+    description: time set day
+    usage: /<command>
